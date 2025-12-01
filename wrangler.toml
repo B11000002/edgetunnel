@@ -1,4 +1,4 @@
-name = "522cnm"
+name = "cfgogo-ed"
 main = "_worker2.js"
 compatibility_date = "2025-07-18"
 keep_vars = true

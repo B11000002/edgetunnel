@@ -1,4 +1,8 @@
 name = "522cnm"
-main = "jiami2.js"
+main = "_worker2.js"
 compatibility_date = "2025-07-18"
 keep_vars = true
+
+[[kv_namespaces]]
+binding = "KV" 
+id = "{CF_KV_ID}" # action部署时被变量替换
